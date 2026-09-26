@@ -39,4 +39,4 @@ Dados de participantes e outras informações pessoais não devem ser publicados
 - Adicionar testes das regras de capacidade
 
 ## Autor
-Enzo
+Enzo da Rosa Severino
